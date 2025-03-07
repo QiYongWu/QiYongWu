@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  
+# Hi there 👋 我是 **QIYongWu**
+
+### 前端开发者 | 技术爱好者 | 健身达人
+
+[![Vue3](https://img.shields.io/badge/-Vue3-4FC08D?style=flat&logo=Vue.js&logoColor=white)](https://vuejs.org/)
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white)](https://vitejs.dev/)
+[![Element Plus](https://img.shields.io/badge/-Element%20Plus-409EFF?style=flat&logo=Element&logoColor=white)](https://element-plus.org/)
+[![Vant](https://img.shields.io/badge/-Vant-1989fa?style=flat&logo=Vue.js&logoColor=white)](https://vant-ui.github.io/)
+
+---
+
+### 🏋️♂️ 我的热爱
+- **健身**：每周5次力量训练
+- **球类运动**：🏀篮球 | 🏸羽毛球 | 🎾网球
+- **技术探索**：前沿框架 | 性能优化
+
+---
+
+### 🛠️ 技术工具箱
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,vite,ts,js,html,css,git,github" />
+</p>
+
+---
+
+### 📊 GitHub 数据
+![](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact)
+
+---
+
+⭐ 来自 **[QIYongWu](https://github.com/你的GitHub用户名)** 的代码世界
+</div>
