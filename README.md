@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 <div align="center">
   
 # Hi there 👋 我是 **QIYongWu**
+- 🌱 I’m currently learning Guilin University of Electronic Technology
+
+
+### 📊 GitHub 数据
+![](https://github-readme-stats.vercel.app/api?username=QiYongWu&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=QiYongWu&layout=compact)
+
+---
 
 ### 前端开发者 | 技术爱好者 | 健身达人
 
@@ -25,14 +33,6 @@ Here are some ideas to get you started:
 [![Vant](https://img.shields.io/badge/-Vant-1989fa?style=flat&logo=Vue.js&logoColor=white)](https://vant-ui.github.io/)
 
 ---
-
-### 🏋️♂️ 我的热爱
-- **健身**：每周5次力量训练
-- **球类运动**：🏀篮球 | 🏸羽毛球 | 🎾网球
-- **技术探索**：前沿框架 | 性能优化
-
----
-
 ### 🛠️ 技术工具箱
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,vite,ts,js,html,css,git,github" />
@@ -40,11 +40,10 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub 数据
-![](https://github-readme-stats.vercel.app/api?username=QiYongWu&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=QiYongWu&layout=compact)
+### 🏋️♂️ 我的热爱
+**健身**：每周5次力量训练
+**球类运动**：🏀篮球 | 🏸羽毛球 | 🎾网球
+**技术探索**：前沿框架 | 性能优化
 
----
-
-⭐ 来自 **[QIYongWu](https://github.com/QiYongWu
+⭐ 来自QIYongWu(https://github.com/QiYongWu)
 </div>
