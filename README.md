@@ -1,9 +1,3 @@
-<!-- 动态背景容器 -->
-<div align="center" style="position:relative;">
-  <!-- 动态粒子背景（使用第三方服务） -->
-  <img src="https://raw.githubusercontent.com/QiYongWu/QiYongWu/main/assets/tech-bg.gif" alt="tech-bg" style="position:absolute; top:0; left:0; width:100%; height:100%; z-index:-1; opacity:0.2;"/>
-  
-
 <!--
 **QiYongWu/QiYongWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
