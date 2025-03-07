@@ -31,19 +31,6 @@ Here are some ideas to get you started:
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white)](https://vitejs.dev/)
 [![Element Plus](https://img.shields.io/badge/-Element%20Plus-409EFF?style=flat&logo=Element&logoColor=white)](https://element-plus.org/)
 [![Vant](https://img.shields.io/badge/-Vant-1989fa?style=flat&logo=Vue.js&logoColor=white)](https://vant-ui.github.io/)
-
 ---
-### 🛠️ 技术工具箱
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,vite,ts,js,html,css,git,github" />
-</p>
-
----
-
-### 🏋️♂️ 我的热爱
-**健身**：每周5次力量训练
-**球类运动**：🏀篮球 | 🏸羽毛球 | 🎾网球
-**技术探索**：前沿框架 | 性能优化
-
 ⭐ 来自QIYongWu(https://github.com/QiYongWu)
 </div>
