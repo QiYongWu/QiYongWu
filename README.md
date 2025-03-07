@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **QiYongWu/QiYongWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,10 +41,10 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub 数据
-![](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=QiYongWu&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=QiYongWu&layout=compact)
 
 ---
 
-⭐ 来自 **[QIYongWu](https://github.com/你的GitHub用户名)** 的代码世界
+⭐ 来自 **[QIYongWu](https://github.com/QiYongWu
 </div>
