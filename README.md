@@ -1,4 +1,5 @@
-<
+
+<div align="center">
 !--
 **QiYongWu/QiYongWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
   
 # Hi 👋 我是 **QIYongWu**
 - 🌱 I’m currently learning Guilin University of Electronic Technology
