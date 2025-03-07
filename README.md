@@ -32,5 +32,4 @@ Here are some ideas to get you started:
 [![Element Plus](https://img.shields.io/badge/-Element%20Plus-409EFF?style=flat&logo=Element&logoColor=white)](https://element-plus.org/)
 [![Vant](https://img.shields.io/badge/-Vant-1989fa?style=flat&logo=Vue.js&logoColor=white)](https://vant-ui.github.io/)
 ---
-⭐ 来自QIYongWu(https://github.com/QiYongWu)
 </div>
