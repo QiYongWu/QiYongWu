@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi 👋 我是 **QIYongWu**
+# Hi 👋 我是 **YongQiWu**
 - 🌱 I’m currently learning Guilin University of Electronic Technology
 
 
